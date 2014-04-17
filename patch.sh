@@ -124,6 +124,6 @@ static_capes
 saucy
 
 #disabled by default
-#rt
+rt
 
 echo "patch.sh ran successful"
